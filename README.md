@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi! I'm Steven
 
-<!--
-**Steven-1504/Steven-1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student and HP Intern with professional experience in data analysis, financial management, and logistics within international companies.
+I have hands-on experience in Excel, reporting, cost validation, and process optimization, and I’m continuously strengthening my technical skills in Python, SQL, and software development.
+I'm actively seeking junior or internship opportunities in Data Analysis and technology-driven roles, where I can contribute analytical thinking, automation, and continuous improvement.
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data & Analytics: 
+Excel, Data Visualization, Reporting
+Tableau (Intermediate – Learning)
+
+💻 Programming & Development: 
+Python, C#, C++, SQL (Learning)
+Git (Learning)
+
+🧪 Quality Assurance & Testing: 
+Jira
+Test case creation and defect reporting (Basic – Academic)
+
+⚙️ Methodologies & Process: 
+Agile (Scrum)
+Process Improvement
+Workflow Optimization
+
+💰 Finance & Validation: 
+Cost management
+Account reconciliation
+Invoicing processes
+Compliance checks
+
+🌎 Languages: 
+Spanish (Native)
+English (Fluent)
