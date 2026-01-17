@@ -1,7 +1,7 @@
 👋 Hi! I'm Steven
 
 I'm a Systems Engineering student and HP Intern with professional experience in data analysis, financial management, and logistics within international companies.
-I have hands-on experience in Excel, reporting, cost validation, and process optimization, and I’m continuously strengthening my technical skills in Python, SQL, and software development.
+I have hands-on experience in Excel, reporting, cost validation, and process optimization, and I’m continuously strengthening my technical skills in Python, SQL, C#, C++ and other software development tecnologies.
 I'm actively seeking junior or internship opportunities in Data Analysis and technology-driven roles, where I can contribute analytical thinking, automation, and continuous improvement.
 
 🛠️ Technical Skills
