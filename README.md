@@ -1,6 +1,6 @@
 👋 Hi! I'm Steven
 
-Systems Engineering student with a strong interest in data analysis. Skilled in analytical thinking and data-driven problem solving. Motivated to apply and expand university-acquired knowledge while developing technical and analytical skills in technology-focused projects.
+Systems Engineering student with a strong interest in data analysis and data engineering. Skilled in analytical thinking and data-driven problem solving. Motivated to apply and expand university-acquired knowledge while developing technical and analytical skills in technology-focused projects.
 
 🛠️ Technical Skills
 
